@@ -1,2 +1,2 @@
-# csulb-project
-My projects during my time at CSULB
+# Project A
+Project A during my time at CSULB
